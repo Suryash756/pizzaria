@@ -1,0 +1,33 @@
+body{
+    background-image: url("imagesBg.jpg");
+}
+h1{
+    font-size:70px;
+    color: white;
+    font-style: italic;
+    text-decoration:underline;
+}
+img{
+    height:500px;
+    width:500px;
+    margin-left:-10px;
+}
+button{
+    height:40px;
+    width:100px;
+    background-color:yellow;
+    font-weight:bold;
+    border:solid;
+    border-color:black;
+    font-size:25px;
+}
+div{
+    font-size:30px;
+    color:white;
+}
+input{
+    border: solid;
+    font-weight:bold;
+    padding:5px;
+    margin-left:5px;
+}
